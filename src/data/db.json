@@ -1,0 +1,716 @@
+{
+	"homePage": [
+		{
+			"id": 1,
+			"name": "i Phone-15 Pro Max (Dual Sim) 256Gb",
+			"price": 1390,
+			"image": "/src/assets/images/1.webp"
+		},
+		{
+			"id": 9,
+			"name": "M3 MacBook Pro 14-inch(2023) 512Gb",
+			"price": 1780,
+			"image": "/src/assets/images/9_macbook.WEBP"
+		},
+		{
+			"id": 32,
+			"name": "AirPod Max",
+			"price": 530,
+			"image": "/src/assets/images/32_airpodmax.WEBP"
+		}
+	],
+	"iPhones": [
+		{
+			"id": 1,
+			"name": "i Phone-15 Pro Max (Dual Sim) 256Gb",
+			"price": 1390,
+			"image": "/src/assets/images/1.jpg"
+		},
+		{
+			"id": 2,
+			"name": "i Phone-15 Pro Max (E Sim) 512Gb",
+			"price": 1250,
+			"image": "/src/assets/images/IMG_6630.WEBP"
+		},
+		{
+			"id": 3,
+			"name": "i Phone-15 Pro (Dual Sim) 512Gb",
+			"price": 1150,
+			"image": "/src/assets/images/IMG_6635.WEBP"
+		},
+		{
+			"id": 4,
+			"name": "i Phone-15 Pro (eSim) 256Gb",
+			"price": 1100,
+			"image": "/src/assets/images/IMG_6634.WEBP"
+		},
+		{
+			"id": 5,
+			"name": "i Phone-15 Plus (eSim) 256Gb",
+			"price": 1000,
+			"image": "/src/assets/images/iPhone15_eSim_PhysicalSim_Blue.webp"
+		},
+		{
+			"id": 6,
+			"name": "i Phone-15 (eSim) 256Gb",
+			"price": 880,
+			"image": "/src/assets/images/iPhone15Plus_eSim_PhysicalSim_Pink.webp"
+		},
+		{
+			"id": 7,
+			"name": "i Phone-14 Plus 512Gb",
+			"price": 850,
+			"image": "/src/assets/images/IMG_6645.webp"
+		},
+		{
+			"id": 8,
+			"name": "i Phone-13 256Gb",
+			"price": 640,
+			"image": "/src/assets/images/IMG_6651.WEBP"
+		}
+	],
+	"macBooks": [
+		{
+			"id": 9,
+			"name": "M3 MacBook Pro 14-inch(2023) 512Gb",
+
+			"price": 1780,
+
+			"image": "/src/assets/images/9_macbook.WEBP"
+		},
+		{
+			"id": 10,
+			"name": "M3 Max MacBook Pro 16-inch(2023) 1Tb",
+			"price": 3200,
+			"image": "/src/assets/images/9_macbook.WEBP"
+		},
+		{
+			"id": 11,
+			"name": "M3 Pro MacBook Pro 14-inch(2023) 1Tb",
+			"price": 2650,
+			"image": "/src/assets/images/9_macbook.WEBP"
+		},
+		{
+			"id": 12,
+			"name": "M3 Pro MacBook Pro 16-inch(2023) 512Gb",
+			"price": 3200,
+			"image": "/src/assets/images/9_macbook.WEBP"
+		},
+		{
+			"id": 13,
+			"name": "MacBook Pro (14-inch,M3,2023) 1Tb",
+			"price": 1780,
+			"image": "/src/assets/images/9_macbook.WEBP"
+		},
+		{
+			"id": 14,
+			"name": "M2 MacBook Air 15-inch(2023) 512Gb",
+			"price": 1250,
+			"image": "/src/assets/images/9_macbook.WEBP"
+		},
+		{
+			"id": 15,
+			"name": "M3 iMac with Retina 4.5K Display 24-inch 2Tb",
+			"price": 1460,
+			"image": "/src/assets/images/15_imac.WEBP"
+		}
+	],
+	"iPads": [
+		{
+			"id": 16,
+			"name": "M2 iPad Pro 12.9-inch (2022) 256Gb",
+			"price": 1200,
+			"image": "/src/assets/images/17_ipadpro.WEBP"
+		},
+		{
+			"id": 17,
+			"name": "M2 iPad Pro 11-inch (2022) 512Gb",
+			"price": 870,
+			"image": "/src/assets/images/M2-iPad-Pro-12_9-2022-Space-Gra.webp"
+		},
+		{
+			"id": 18,
+			"name": "M1 iPad Pro 12.9-inch (2021) 512Gb",
+			"price": 1120,
+			"image": "/src/assets/images/17_ipadpro.WEBP"
+		},
+		{
+			"id": 19,
+			"name": "M1 iPad Pro 11-inch (2021) 256Gb",
+			"price": 855,
+			"image": "/src/assets/images/19_ipadpro.WEBP"
+		},
+		{
+			"id": 20,
+			"name": "iPad Mini 6<sup>th</sup> Gen 256Gb",
+			"price": 1000,
+			"image": "/src/assets/images/ipadmini-purple.webp"
+		},
+		{
+			"id": 21,
+			"name": "iPad Air 5 (eSim) 256Gb",
+			"price": 1150,
+			"image": "/src/assets/images/iPadAir5Starlight.jpg.webp"
+		}
+	],
+	"watchs": [
+		{
+			"id": 22,
+			"name": "Apple Watch Ultra 2 GPS + Cellular,49mm Titanium Case with Orange Ocean Band",
+
+			"price": 840,
+
+			"image": "/src/assets/images/22_watchultra.WEBP"
+		},
+		{
+			"id": 23,
+			"name": "Apple Watch Ultra 2 GPS + Cellular,49mm Titanium Case with Indigo Alpine Loop",
+			"price": 840,
+			"image": "/src/assets/images/23_watchultra.WEBP"
+		},
+		{
+			"id": 24,
+			"name": "Apple Watch Series 9 GPS 45 mm Winter Blue Sport Loop",
+			"price": 460,
+			"image": "/src/assets/images/24_watch9.WEBP"
+		},
+		{
+			"id": 25,
+			"name": "Apple Watch Series 8 GPS 45mm Starlight Aluminium Case with Starlight Sport Band",
+			"price": 430,
+			"image": "/src/assets/images/25_watch8.WEBP"
+		},
+		{
+			"id": 26,
+			"name": "Apple Watch Series SE 2<sup>nd</sup> Gen, GPS 44mm Midnight Aluminium Case with Midnight Sport Loop",
+			"price": 300,
+			"image": "/src/assets/images/26_watchse.WEBP"
+		}
+	],
+	"airPods": [
+		{
+			"id": 27,
+			"name": "AirPods Pro(2<sup>nd</sup> Generation) USB-C",
+
+			"price": 245,
+
+			"image": "/src/assets/images/27_airpodpro.WEBP"
+		},
+		{
+			"id": 28,
+			"name": "AirPods Pro(2<sup>nd</sup> Generation) ",
+			"price": 230,
+			"image": "/src/assets/images/28_airpodpro.WEBP"
+		},
+		{
+			"id": 29,
+			"name": "AirPods 3 with MagSafe Charging Case",
+			"price": 180,
+			"image": "/src/assets/images/29_airpod3.WEBP"
+		},
+		{
+			"id": 30,
+			"name": "AirPods 3 with Lighting Charging Case",
+			"price": 170,
+			"image": "/src/assets/images/29_airpod3.WEBP"
+		},
+		{
+			"id": 31,
+			"name": "AirPods 2 (Non-Wireless)",
+			"price": 115,
+			"image": "/src/assets/images/31_airpod2.WEBP"
+		},
+		{
+			"id": 32,
+			"name": "AirPod Max",
+			"price": 530,
+			"image": "/src/assets/images/32_airpodmax.WEBP"
+		}
+	],
+	"accessories": [
+		{
+			"id": 33,
+			"name": "MagSafe Duo Charger",
+			"price": 360,
+
+			"image": "/src/assets/images/33_magsafe.WEBP"
+		},
+		{
+			"id": 34,
+			"name": "Chotech PD20W Fast Charging Power Bank",
+			"price": 28,
+			"image": "/src/assets/images/34_powerbank_magsafe.WEBP"
+		},
+		{
+			"id": 35,
+			"name": "COTECi universal Crystal Macbook Pro 16-inch Case",
+			"price": 14,
+			"image": "/src/assets/images/35_crystalcase.WEBP"
+		},
+		{
+			"id": 36,
+			"name": "Apple Pencil 1(with USB-C to Apple Pencil)",
+			"price": 110,
+			"image": "/src/assets/images/36_applepencil.WEBP"
+		},
+		{
+			"id": 37,
+			"name": "SAMDI Bamboo Monitor Stand for Macbook",
+			"price": 30,
+			"image": "/src/assets/images/37_bamboostand.WEBP"
+		},
+		{
+			"id": 38,
+			"name": "Protective for Magsafe for iPhone 15 Pro Max",
+			"price": 33,
+			"image": "/src/assets/images/38_protectivecase.WEBP"
+		},
+		{
+			"id": 39,
+			"name": "Bose SoundLink Flex Bluetooth Speaker",
+			"price": 163,
+			"image": "/src/assets/images/39_bosespeaker.WEBP"
+		},
+		{
+			"id": 40,
+			"name": "Bose SoundLink Revolve II Bluetooth Speaker",
+			"price": 235,
+			"image": "/src/assets/images/40_bosespeaker2.WEBP"
+		},
+		{
+			"id": 41,
+			"name": "Bose Noise Cancellation headphones 700",
+			"price": 360,
+			"image": "/src/assets/images/41_boseheadphone.WEBP"
+		},
+		{
+			"id": 42,
+			"name": "Case Studi Watch Strap Rovers",
+			"price": 14,
+			"image": "/src/assets/images/42_casewatch.WEBP"
+		},
+		{
+			"id": 43,
+			"name": "Harman/kardon Onyx Studio 8",
+
+			"price": 222,
+
+			"image": "/src/assets/images/43_harmanstudio8.WEBP"
+		},
+		{
+			"id": 44,
+			"name": "Sony WH-1000XM5 Noise Cancelling Headphones ",
+			"price": 360,
+			"image": "/src/assets/images/44_sonyheadphone.WEBP"
+		},
+		{
+			"id": 45,
+			"name": "Beats Studio Pro Wireless Headphones",
+			"price": 265,
+			"image": "/src/assets/images/45_beatstudioheadphone.WEBP"
+		},
+		{
+			"id": 46,
+			"name": "Beats Studio Buds+ (Release 2023)",
+			"price": 158,
+			"image": "/src/assets/images/46_beatsstudiobuds.WEBP"
+		},
+		{
+			"id": 47,
+			"name": "SwitchEasy AirTag Wrap Leather Case(Keyring)",
+			"price": 14,
+			"image": "/src/assets/images/47_airtagcase.WEBP"
+		},
+		{
+			"id": 48,
+			"name": "SwitchEasy Origami Nude Case For iPad Pro 12.9-inch",
+			"price": 30,
+			"image": "/src/assets/images/48_origaminudecase.WEBP"
+		},
+		{
+			"id": 49,
+			"name": "Tomatoc Laptop Handbag for Macbook 12-14inch",
+			"price": 30,
+			"image": "/src/assets/images/49_tomatochandbag.WEBP"
+		},
+		{
+			"id": 50,
+			"name": "Rhinoshield CrashGuard NX Case for AirPods 2",
+			"price": 25,
+			"image": "/src/assets/images/50_rhinoshiledcase.WEBP"
+		},
+		{
+			"id": 51,
+			"name": "Momax 2 in 1 MagSafe Wireless Charging Stand",
+			"price": 71,
+			"image": "/src/assets/images/51_momaxmagsafe.WEBP"
+		},
+		{
+			"id": 52,
+			"name": "Apple Original USB-C Power Adapter(70W)",
+			"price": 66,
+			"image": "/src/assets/images/52_applecharger.WEBP"
+		},
+		{
+			"id": 53,
+			"name": "Ringke Onyn Case for AirPods 3",
+			"price": 8,
+			"image": "/src/assets/images/53_ringkeairpodcase.WEBP"
+		},
+		{
+			"id": 54,
+			"name": "Logitech MX Master 3 for Mac (Black)",
+			"price": 125,
+			"image": "/src/assets/images/54_logitechmouse.WEBP"
+		}
+	],
+	"allProducts": [
+		{
+			"id": 1,
+			"name": "i Phone-15 Pro Max (Dual Sim) 256Gb",
+			"price": 1390,
+			"image": "/src/assets/images/1.jpg",
+			"choiceName": "Capacity",
+			"options": ["128Gb", "256Gb", "512Gb"]
+		},
+		{
+			"id": 2,
+			"name": "i Phone-15 Pro Max (E Sim) 512Gb",
+			"price": 1250,
+			"image": "/src/assets/images/IMG_6630.WEBP",
+			"options": ["128Gb", "256Gb", "512Gb"],
+			"choiceName": "Capacity"
+		},
+		{
+			"id": 3,
+			"name": "i Phone-15 Pro (Dual Sim) 512Gb",
+			"price": 1150,
+			"image": "/src/assets/images/IMG_6635.WEBP",
+			"options": ["128Gb", "256Gb", "512Gb"]
+		},
+		{
+			"id": 4,
+			"name": "i Phone-15 Pro (eSim) 256Gb",
+			"price": 1100,
+			"image": "/src/assets/images/IMG_6634.WEBP",
+			"options": ["128Gb", "256Gb", "512Gb"]
+		},
+		{
+			"id": 5,
+			"name": "i Phone-15 Plus (eSim) 256Gb",
+			"price": 1000,
+			"image": "/src/assets/images/iPhone15_eSim_PhysicalSim_Blue.webp",
+			"options": ["128Gb", "256Gb", "512Gb"]
+		},
+		{
+			"id": 6,
+			"name": "i Phone-15 (eSim) 256Gb",
+			"price": 880,
+			"image": "/src/assets/images/iPhone15Plus_eSim_PhysicalSim_Pink.webp",
+			"options": ["128Gb", "256Gb", "512Gb"]
+		},
+		{
+			"id": 7,
+			"name": "i Phone-14 Plus 512Gb",
+			"price": 850,
+			"image": "/src/assets/images/IMG_6645.webp",
+			"options": ["128Gb", "256Gb", "512Gb"]
+		},
+		{
+			"id": 8,
+			"name": "i Phone-13 256Gb",
+			"price": 640,
+			"image": "/src/assets/images/IMG_6651.WEBP",
+			"storage": "storage",
+			"options": ["128Gb", "256Gb", "512Gb"]
+		},
+		{
+			"id": 9,
+			"name": "M3 MacBook Pro 14-inch(2023) 512Gb",
+
+			"price": 1780,
+
+			"image": "/src/assets/images/9_macbook.WEBP"
+		},
+		{
+			"id": 10,
+			"name": "M3 Max MacBook Pro 16-inch(2023) 1Tb",
+			"price": 3200,
+			"image": "/src/assets/images/9_macbook.WEBP"
+		},
+		{
+			"id": 11,
+			"name": "M3 Pro MacBook Pro 14-inch(2023) 1Tb",
+			"price": 2650,
+			"image": "/src/assets/images/9_macbook.WEBP"
+		},
+		{
+			"id": 12,
+			"name": "M3 Pro MacBook Pro 16-inch(2023) 512Gb",
+			"price": 3200,
+			"image": "/src/assets/images/9_macbook.WEBP"
+		},
+		{
+			"id": 13,
+			"name": "MacBook Pro (14-inch,M3,2023) 1Tb",
+			"price": 1780,
+			"image": "/src/assets/images/9_macbook.WEBP"
+		},
+		{
+			"id": 14,
+			"name": "M2 MacBook Air 15-inch(2023) 512Gb",
+			"price": 1250,
+			"image": "/src/assets/images/9_macbook.WEBP"
+		},
+		{
+			"id": 15,
+			"name": "M3 iMac with Retina 4.5K Display 24-inch 2Tb",
+			"price": 1460,
+			"image": "/src/assets/images/15_imac.WEBP"
+		},
+		{
+			"id": 16,
+			"name": "M2 iPad Pro 12.9-inch (2022) 256Gb",
+
+			"price": 1200,
+
+			"image": "/src/assets/images/17_ipadpro.WEBP"
+		},
+		{
+			"id": 17,
+			"name": "M2 iPad Pro 11-inch (2022) 512Gb",
+			"price": 870,
+			"image": "/src/assets/images/M2-iPad-Pro-12_9-2022-Space-Gra.webp"
+		},
+		{
+			"id": 18,
+			"name": "M1 iPad Pro 12.9-inch (2021) 512Gb",
+			"price": 1120,
+			"image": "/src/assets/images/17_ipadpro.WEBP"
+		},
+		{
+			"id": 19,
+			"name": "M1 iPad Pro 11-inch (2021) 256Gb",
+			"price": 855,
+			"image": "/src/assets/images/19_ipadpro.WEBP"
+		},
+		{
+			"id": 20,
+			"name": "iPad Mini 6<sup>th</sup> Gen 256Gb",
+			"price": 1000,
+			"image": "/src/assets/images/ipadmini-purple.webp"
+		},
+		{
+			"id": 21,
+			"name": "iPad Air 5 (eSim) 256Gb",
+			"price": 1150,
+			"image": "/src/assets/images/iPadAir5Starlight.jpg.webp"
+		},
+		{
+			"id": 22,
+			"name": "Apple Watch Ultra 2 GPS + Cellular,49mm Titanium Case with Orange Ocean Band",
+
+			"price": 840,
+
+			"image": "/src/assets/images/22_watchultra.WEBP"
+		},
+		{
+			"id": 23,
+			"name": "Apple Watch Ultra 2 GPS + Cellular,49mm Titanium Case with Indigo Alpine Loop",
+			"price": 840,
+			"image": "/src/assets/images/23_watchultra.WEBP"
+		},
+		{
+			"id": 24,
+			"name": "Apple Watch Series 9 GPS 45 mm Winter Blue Sport Loop",
+			"price": 460,
+			"image": "/src/assets/images/24_watch9.WEBP"
+		},
+		{
+			"id": 25,
+			"name": "Apple Watch Series 8 GPS 45mm Starlight Aluminium Case with Starlight Sport Band",
+			"price": 430,
+			"image": "/src/assets/images/25_watch8.WEBP"
+		},
+		{
+			"id": 26,
+			"name": "Apple Watch Series SE 2<sup>nd</sup> Gen, GPS 44mm Midnight Aluminium Case with Midnight Sport Loop",
+			"price": 300,
+			"image": "/src/assets/images/26_watchse.WEBP"
+		},
+		{
+			"id": 27,
+			"name": "AirPods Pro(2<sup>nd</sup> Generation) USB-C",
+
+			"price": 245,
+
+			"image": "/src/assets/images/27_airpodpro.WEBP"
+		},
+		{
+			"id": 28,
+			"name": "AirPods Pro(2<sup>nd</sup> Generation) ",
+			"price": 230,
+			"image": "/src/assets/images/28_airpodpro.WEBP"
+		},
+		{
+			"id": 29,
+			"name": "AirPods 3 with MagSafe Charging Case",
+			"price": 180,
+			"image": "/src/assets/images/29_airpod3.WEBP"
+		},
+		{
+			"id": 30,
+			"name": "AirPods 3 with Lighting Charging Case",
+			"price": 170,
+			"image": "/src/assets/images/29_airpod3.WEBP"
+		},
+		{
+			"id": 31,
+			"name": "AirPods 2 (Non-Wireless)",
+			"price": 115,
+			"image": "/src/assets/images/31_airpod2.WEBP"
+		},
+		{
+			"id": 32,
+			"name": "AirPod Max",
+			"price": 530,
+			"image": "/src/assets/images/32_airpodmax.WEBP"
+		},
+		{
+			"id": 33,
+			"name": "MagSafe Duo Charger",
+
+			"price": 360,
+
+			"image": "/src/assets/images/33_magsafe.WEBP"
+		},
+		{
+			"id": 34,
+			"name": "Chotech PD20W Fast Charging Power Bank",
+			"price": 28,
+			"image": "/src/assets/images/34_powerbank_magsafe.WEBP"
+		},
+		{
+			"id": 35,
+			"name": "COTECi universal Crystal Macbook Pro 16-inch Case",
+			"price": 14,
+			"image": "/src/assets/images/35_crystalcase.WEBP"
+		},
+		{
+			"id": 36,
+			"name": "Apple Pencil 1(with USB-C to Apple Pencil)",
+			"price": 110,
+			"image": "/src/assets/images/36_applepencil.WEBP"
+		},
+		{
+			"id": 37,
+			"name": "SAMDI Bamboo Monitor Stand for Macbook",
+			"price": 30,
+			"image": "/src/assets/images/37_bamboostand.WEBP"
+		},
+		{
+			"id": 38,
+			"name": "Protective for Magsafe for iPhone 15 Pro Max",
+			"price": 33,
+			"image": "/src/assets/images/38_protectivecase.WEBP"
+		},
+		{
+			"id": 39,
+			"name": "Bose SoundLink Flex Bluetooth Speaker",
+			"price": 163,
+			"image": "/src/assets/images/39_bosespeaker.WEBP"
+		},
+		{
+			"id": 40,
+			"name": "Bose SoundLink Revolve II Bluetooth Speaker",
+			"price": 235,
+			"image": "/src/assets/images/40_bosespeaker2.WEBP"
+		},
+		{
+			"id": 41,
+			"name": "Bose Noise Cancellation headphones 700",
+			"price": 360,
+			"image": "/src/assets/images/41_boseheadphone.WEBP"
+		},
+		{
+			"id": 42,
+			"name": "Case Studi Watch Strap Rovers",
+			"price": 14,
+			"image": "/src/assets/images/42_casewatch.WEBP"
+		},
+		{
+			"id": 43,
+			"name": "Harman/kardon Onyx Studio 8",
+
+			"price": 222,
+
+			"image": "/src/assets/images/43_harmanstudio8.WEBP"
+		},
+		{
+			"id": 44,
+			"name": "Sony WH-1000XM5 Noise Cancelling Headphones ",
+			"price": 360,
+			"image": "/src/assets/images/44_sonyheadphone.WEBP"
+		},
+		{
+			"id": 45,
+			"name": "Beats Studio Pro Wireless Headphones",
+			"price": 265,
+			"image": "/src/assets/images/45_beatstudioheadphone.WEBP"
+		},
+		{
+			"id": 46,
+			"name": "Beats Studio Buds+ (Release 2023)",
+			"price": 158,
+			"image": "/src/assets/images/46_beatsstudiobuds.WEBP"
+		},
+		{
+			"id": 47,
+			"name": "SwitchEasy AirTag Wrap Leather Case(Keyring)",
+			"price": 14,
+			"image": "/src/assets/images/47_airtagcase.WEBP"
+		},
+		{
+			"id": 48,
+			"name": "SwitchEasy Origami Nude Case For iPad Pro 12.9-inch",
+			"price": 30,
+			"image": "/src/assets/images/48_origaminudecase.WEBP"
+		},
+		{
+			"id": 49,
+			"name": "Tomatoc Laptop Handbag for Macbook 12-14inch",
+			"price": 30,
+			"image": "/src/assets/images/49_tomatochandbag.WEBP"
+		},
+		{
+			"id": 50,
+			"name": "Rhinoshield CrashGuard NX Case for AirPods 2",
+			"price": 25,
+			"image": "/src/assets/images/50_rhinoshiledcase.WEBP"
+		},
+		{
+			"id": 51,
+			"name": "Momax 2 in 1 MagSafe Wireless Charging Stand",
+			"price": 71,
+			"image": "/src/assets/images/51_momaxmagsafe.WEBP"
+		},
+		{
+			"id": 52,
+			"name": "Apple Original USB-C Power Adapter(70W)",
+			"price": 66,
+			"image": "/src/assets/images/52_applecharger.WEBP"
+		},
+		{
+			"id": 53,
+			"name": "Ringke Onyn Case for AirPods 3",
+			"price": 8,
+			"image": "/src/assets/images/53_ringkeairpodcase.WEBP"
+		},
+		{
+			"id": 54,
+			"name": "Logitech MX Master 3 for Mac (Black)",
+			"price": 125,
+			"image": "/src/assets/images/54_logitechmouse.WEBP"
+		}
+	]
+}
